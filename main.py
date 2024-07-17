@@ -66,8 +66,6 @@ if __name__ == "__main__":
   # api call & JSON conversiom
   response = api_call(api_key, base64_image)
   workflow_json = json.loads(response)
-
-  print(workflow_json)
   
   # create workflow diagram with this
   create_graph(workflow_json)

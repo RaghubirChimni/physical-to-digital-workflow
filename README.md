@@ -39,3 +39,8 @@ To convert a hand-drawn design or workflow into digital form.
    ```
 
 4. Open workflow_diagram.png to see the digital version of your workflow.
+
+5. Deactivate virtual environment when done.
+    ``` 
+    deactivate 
+    ```

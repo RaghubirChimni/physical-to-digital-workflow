@@ -1,4 +1,3 @@
-from openai import OpenAI
 import base64
 import sys
 import os

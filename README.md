@@ -4,7 +4,7 @@
 To convert a hand-drawn design or workflow into digital form.
 
 ## Table of Contents
-1. [Setup](#installation)
+1. [Setup](#setup)
 2. [Usage](#usage)
 
 ## Setup

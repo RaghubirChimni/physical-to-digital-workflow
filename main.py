@@ -63,7 +63,7 @@ if __name__ == "__main__":
   # encode image for gpt
   base64_image = encode_image(image_path)
   
-  # api call & JSON conversiom
+  # api call & JSON conversion
   response = api_call(api_key, base64_image)
   workflow_json = json.loads(response)
   
